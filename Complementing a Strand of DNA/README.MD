@@ -1,0 +1,12 @@
+Problem:
+
+In DNA strings, symbols 'A' and 'T' are complements of each other, as are 'C' and 'G'. The reverse complement of a DNA string s is the string sc formed by reversing the symbols of s, then taking the complement of each symbol (e.g., the reverse complement of "GTCA" is "TGAC").
+
+Given: A DNA string s of length at most 1000 bp.
+
+Return: The reverse complement sc of s.
+
+
+Reflection:
+
+My biggest struggle was finding a simple way to reverse the complemented string. I researched different string-handling methods before settlign on the Python slice notation. 

@@ -1,4 +1,4 @@
-file = open("C:\\Users\\derel\\Desktop\\Coding_Projects\\Rosalind\\Complementing a Strand of DNA\\rosalind_revc.txt")
+file = open("C:\\Users\\derel\\Desktop\\Coding_Projects\\rosalind-bioinformatics\\Complementing a Strand of DNA\\rosalind_revc.txt")
 strand = file.read()
 c_strand = ""
 for char in strand:
