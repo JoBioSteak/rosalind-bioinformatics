@@ -1,3 +1,5 @@
+#https://rosalind.info/problems/revc/
+
 file = open("C:\\Users\\derel\\Desktop\\Coding_Projects\\rosalind-bioinformatics\\Algorithm-Design_Stronghold\\Complementing a Strand of DNA\\rosalind_revc.txt")
 strand = file.read()
 c_strand = ""

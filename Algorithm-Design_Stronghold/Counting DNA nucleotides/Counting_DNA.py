@@ -1,3 +1,5 @@
+#https://rosalind.info/problems/dna/
+
 A_count = 0
 T_count = 0
 G_count = 0

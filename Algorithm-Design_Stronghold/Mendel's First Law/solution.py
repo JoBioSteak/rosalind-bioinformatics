@@ -1,3 +1,5 @@
+#https://rosalind.info/problems/iprb/
+
 filename = "Algorithm-Design_Stronghold\\Mendel's First Law\\rosalind_iprb.txt"
 with open(filename) as f:
     k, m, n = [int(x) for x in next(f).split()]

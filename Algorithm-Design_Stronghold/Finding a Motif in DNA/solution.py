@@ -1,3 +1,5 @@
+#https://rosalind.info/problems/subs/
+
 filename = "Algorithm-Design_Stronghold\\Finding a Motif in DNA\\rosalind_subs.txt"
 with open(filename) as f:
     lines = f.read().split()

@@ -1,3 +1,5 @@
+#https://rosalind.info/problems/hamm/
+
 filename = "Algorithm-Design_Stronghold\\Counting Point Mutations\\rosalind_hamm.txt"
 
 #Saving each strand as a separate array

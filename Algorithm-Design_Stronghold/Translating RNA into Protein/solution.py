@@ -1,3 +1,5 @@
+#https://rosalind.info/problems/prot/
+
 codon_table = {
 "UUU": "F", "UUC": "F", "UUA": "L", "UUG": "L",
     "CUU": "L", "CUC": "L", "CUA": "L", "CUG": "L",

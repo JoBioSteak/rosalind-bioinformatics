@@ -1,3 +1,5 @@
+#https://rosalind.info/problems/frmt/
+
 from Bio import Entrez
 from Bio import SeqIO
 Entrez.email = "saltedtangerine@gmail.com"

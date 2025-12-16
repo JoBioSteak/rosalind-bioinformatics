@@ -1,3 +1,4 @@
+#https://rosalind.info/problems/gbk/
 from Bio import Entrez
 Entrez.email = "saltedtangerine@gmail.com"
 

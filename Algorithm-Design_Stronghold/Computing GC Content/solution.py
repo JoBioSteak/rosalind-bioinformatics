@@ -1,3 +1,5 @@
+#https://rosalind.info/problems/gc/
+
 filename = "Algorithm-Design_Stronghold\\Computing GC Content\\rosalind_gc.txt"
 
 #Simple counter

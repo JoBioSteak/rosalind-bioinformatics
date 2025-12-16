@@ -1,3 +1,5 @@
+#https://rosalind.info/problems/ini/
+
 from Bio.Seq import Seq
 filename = "Software-Tools_Armory\\Counting DNA nucleotides using BioPython\\rosalind_ini.txt"
 with open(filename) as f:
